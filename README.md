@@ -271,8 +271,8 @@ The result shows that maximum yield (highest temperature, most catalyst) is NOT 
 **Arya W.**
 - B.Tech / Chemical Engineering Student
 - Interests: ML in Process Industry, Data-Driven Chemical Engineering, Optimization
-- GitHub: [YOUR_GITHUB_PROFILE](https://github.com/YOUR_USERNAME)
-- LinkedIn: [YOUR_LINKEDIN](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: [YOUR_GITHUB_PROFILE](https://github.com/aryawardhan))
+- LinkedIn: [YOUR_LINKEDIN](www.linkedin.com/in/aryawardhan-solanki-a01230269
 
 ---
 
