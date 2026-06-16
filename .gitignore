@@ -1,23 +1,7 @@
-# Generated data and model files (run the scripts to regenerate)
-data/reaction_data.csv
-models/*.joblib
-models/optimal_conditions.json
-visuals/
-
-# Python cache
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
-
-# VS Code
-.vscode/
-
-# Environment
-.env
-venv/
-env/
-
-# OS files
+.venv/
 .DS_Store
 Thumbs.db
+"Interview prep.docx"

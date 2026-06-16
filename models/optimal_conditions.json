@@ -1,0 +1,10 @@
+{
+    "max_profit_per_cycle": 11764.0,
+    "predicted_yield_pct": 24.69,
+    "optimal_conditions": {
+        "Temperature_C": 160.0,
+        "Pressure_bar": 30.0,
+        "Catalyst_Loading_mol_pct": 1.19,
+        "Residence_Time_hrs": 3.0
+    }
+}
