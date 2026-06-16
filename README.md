@@ -180,8 +180,8 @@ python src/04_optimize_economics.py
 | Model | RMSE (%) | R² |
 |---|---|---|
 | Linear Regression | ~6.5 | ~0.65 |
-| Random Forest | ~4.5 | ~0.83 |
-| **XGBoost** | **~4.0** | **~0.85** |
+| Random Forest | ~4.0 | ~0.88 |
+| **XGBoost** | **~3.5** | **~0.92** |
 
 - Saves best model + full pipeline artifacts to `models/`
 
