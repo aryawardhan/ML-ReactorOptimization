@@ -46,8 +46,8 @@ This project demonstrates the intersection of **Chemical Engineering domain know
 | Metric | Value |
 |---|---|
 | Best Model | XGBoost Regressor |
-| RMSE | 4.00% |
-| R-squared | ~0.85+ |
+| RMSE | 3.50% |
+| R-squared | ~0.91+ |
 | Optimal Temperature | 160.0 °C |
 | Optimal Pressure | 30.0 bar |
 | Optimal Catalyst Loading | 1.19 mol% |
